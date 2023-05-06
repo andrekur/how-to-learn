@@ -81,14 +81,6 @@
   z-index: 0;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .description {
   display: flex;
   justify-content: center;
@@ -246,7 +238,7 @@
 }
 
 .feynman__link__text {
-  text-decoration: none
+  text-decoration: none;
 }
 
 .black_background {
@@ -287,7 +279,10 @@
 }
 
 .table__cell_theme_dark {
+  width: 200px;
   color: white;
+  margin-right: 0;
+  margin-top: 80px;
 }
 
 .table__heading_theme_dark {
