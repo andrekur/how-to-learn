@@ -234,6 +234,7 @@
   z-index: 0;
   background-size: contain;
   background-repeat: no-repeat;
+  alt: "feynman";
 }
 
 .feynman__link {
@@ -311,6 +312,7 @@
   top: 0;
   background-size: cover;
   background-repeat: no-repeat;
+  alt: "triangle";
 }
 
 .footer {
@@ -340,6 +342,7 @@
 
 .logo__image_footer {
   background-image: url(../images/logo_place_footer.svg);
+  alt: "footer";
 }
 
 .footer__column_social {
@@ -382,14 +385,17 @@
 
 .youtube-link {
   content: url(../images/youtube-icon.svg);
+  alt: "youtube";
 }
 
 .vk-link {
   content: url(../images/vk_color_white.svg);
+  alt: "vk";
 }
 
 .tiktok-link {
   content: url(../images/tiktok-icon.svg);
+  alt: "tiktok";
 }
 
 .footer__text {
