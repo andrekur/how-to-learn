@@ -224,7 +224,6 @@
 }
 
 .feynman__image {
-  content: url(../images/feynman.png);
   width: 867px;
   height: 637px;
   position: absolute;
@@ -233,7 +232,6 @@
   z-index: 0;
   background-size: contain;
   background-repeat: no-repeat;
-  alt: "feynman";
 }
 
 .feynman__link {
@@ -254,10 +252,6 @@
   padding: 90px 0 90px 0;
   overflow: hidden;
   background-color: #1f1f1f;
-}
-
-.table__cell_theme_dark {
-  width: 200px;
 }
 
 .section-subtitle_theme_dark {
@@ -299,7 +293,6 @@
   top: 0;
   background-size: cover;
   background-repeat: no-repeat;
-  alt: "triangle";
 }
 
 .footer {
