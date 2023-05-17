@@ -64,3 +64,6 @@
 @import url(../resources/resources.css);
 @import url(../resources/__link/resources__link.css);
 @import url(../resources/__logo/resources__logo.css);
+@import url(../resources/__logo-zone/resources__logo-zone.css);
+
+@import url(../animation/__link/link_opacity_middle.css);

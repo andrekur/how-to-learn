@@ -1,6 +1,15 @@
+.link_opacity_middle {
+  opacity: 70%;
+  transition: opacity 0.1 ease;
+}
+
 .page {
     min-width: 1100px;
     max-width: 1600px;
     margin: 0 auto;
     font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+a:hover .link_opacity_middle {
+    opacity: 90%;
 }
