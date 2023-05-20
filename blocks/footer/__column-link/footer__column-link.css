@@ -3,4 +3,10 @@
   font-size: 18px;
   color: white;
   text-decoration: none;
+  opacity: 100%;
+}
+
+.footer__column-link:hover {
+  opacity: 30%;
+  transition: opacity 0.5s linear 0s;
 }

@@ -4,4 +4,10 @@
   line-height: 42px;
   position: absolute;
   top: 0;
+  opacity: 100%;
+}
+
+.khan__buy-link:hover {
+  opacity: 30%;
+  transition: opacity 0.5s linear 0s;
 }
