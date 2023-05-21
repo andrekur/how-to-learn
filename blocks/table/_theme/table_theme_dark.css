@@ -1,4 +1,5 @@
 .table_theme_dark {
-  color: white;
+  margin-top: 80px;
   row-gap: 80px;
+  color: white;
 }
