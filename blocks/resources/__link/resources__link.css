@@ -2,9 +2,9 @@
   text-decoration: none;
   text-align: center;
   opacity: 100%;
+  transition: opacity 0.5s linear 0s;
 }
 
 .resources__link:hover {
   opacity: 30%;
-  transition: opacity 0.5s linear 0s;
 }
